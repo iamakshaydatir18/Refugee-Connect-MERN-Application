@@ -1,4 +1,4 @@
-import { initializeRouter } from "./routes/index.js";
+import { initializeRouter } from "./app/routes/index.js"
 import  express  from "express";
 import  cors from "cors";
 import mongoose from "mongoose";
